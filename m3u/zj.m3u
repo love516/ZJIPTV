@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1,杭州综合
-http://117.148.187.37/PLTV/88888888/224/3221226170/index.m3u8
-#EXTINF:-1,杭州综合
-http://112.17.40.140/PLTV/88888888/224/3221226170/index.m3u8
 #EXTINF:-1,浙江卫视
 http://121.31.30.90:8085/ysten-business/live/zhejiangstv/1.m3u8
 #EXTINF:-1,浙江卫视
 http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8
-#EXTINF:-1,浙江卫视 (1080p)
+#EXTINF:-1,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1,浙江卫视FHD
+#EXTINF:-1,浙江卫视HD
 http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
 #EXTINF:-1,浙江卫视HD
 http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8
@@ -17,66 +13,130 @@ http://117.148.187.37/PLTV/88888888/224/3221226474/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
 #EXTINF:-1,浙江卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
-#EXTINF:-1,浙江国际 (1080p)
+#EXTINF:-1,浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1,浙江少儿 (1080p)
+#EXTINF:-1,浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1,浙江影视 (720p)
+#EXTINF:-1,浙江影视
 http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
-#EXTINF:-1,浙江教科影视 (1080p)
+#EXTINF:-1,浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1,浙江数码时代
 http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
-#EXTINF:-1,浙江数码时代 (1080p)
+#EXTINF:-1,浙江数码时代
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1,浙江新闻 (1080p)
+#EXTINF:-1,浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1,浙江民生休闲 (1080p)
+#EXTINF:-1,浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1,浙江经济生活 (1080p)
+#EXTINF:-1,浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1,浙江钱江频道 (1080p)
+#EXTINF:-1,浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1,舟山公共生活 (576p)
-http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1,舟山新闻综合 (576p)
-http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1,舟山新闻综合 (576p)
-http://stream.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1,舟山群岛旅游 (576p)
-http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:-1,舟山生活台
-http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1,余姚新闻综合 (576p)
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1,余姚姚江文化
-http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1,宁波少儿 (360p)
-http://149.129.100.78/ningbo.php?id=5
-#EXTINF:-1,宁波影视剧 (360p)
-http://149.129.100.78/ningbo.php?id=4
-#EXTINF:-1,宁波教育科技 (540p)
-http://149.129.100.78/ningbo.php?id=6
-#EXTINF:-1,宁波新闻综合 (540p)
-http://149.129.100.78/ningbo.php?id=1
-#EXTINF:-1,宁波经济生活 (540p)
-http://149.129.100.78/ningbo.php?id=2
-#EXTINF:-1,宁波都市文体 (540p)
-http://149.129.100.78/ningbo.php?id=3
-#EXTINF:-1,绍兴柯桥综合
-http://live.scbtv.cn/hls/news/index.m3u8
-#EXTINF:-1,绍兴柯桥时尚台
-http://live.scbtv.cn/hls/qfc/index.m3u8
-#EXTINF:-1,绍兴综合台
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1,绍兴影视台
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1,绍兴公共台
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1,开化新闻频道
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1,开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1,杭州综合
+http://117.148.179.179/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1,杭州综合
+http://live.hoolo.tv/hztv1/sd/live.m3u8
+#EXTINF:-1,杭州明珠
+http://117.148.179.179/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1,杭州明珠
+http://live.hoolo.tv/hztv2/sd/live.m3u8
+#EXTINF:-1,杭州生活
+http://117.148.179.179/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1,杭州生活
+http://live.hoolo.tv/hztv3/sd/live.m3u8
+#EXTINF:-1,杭州生活
+p2p://proxy_dli31/hztv3
+#EXTINF:-1,杭州影视
+http://117.148.179.179/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1,杭州影视
+http://live.hoolo.tv/hztv4/sd/live.m3u8
+#EXTINF:-1,杭州青少体育
+http://117.148.179.179/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1,杭州青少体育
+http://live.hoolo.tv/hztv5/sd/live.m3u8
 #EXTINF:-1,萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1,萧山生活频道
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1,宁波新闻综合
+http://149.129.100.78/ningbo.php?id=1
+#EXTINF:-1,宁波新闻综合
+http://live1.cloud.nbtv.cn/44dcc3310dcf4278827317c77e87bac5/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
+#EXTINF:-1,宁波新闻综合
+http://live1.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1,宁波经济生活
+http://149.129.100.78/ningbo.php?id=2
+#EXTINF:-1,宁波经济生活
+http://live1.cloud.nbtv.cn/98ef9dc4eb1a4259b7764ffc4a3ab241/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
+#EXTINF:-1,宁波经济生活
+http://live1.cloud.nbtv.cn/live/98ef9dc4eb1a4259b7764ffc4a3ab241?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1,宁波文化娱乐
+http://149.129.100.78/ningbo.php?id=3
+#EXTINF:-1,宁波文化娱乐
+http://live1.cloud.nbtv.cn/5864a1066e4d4754a0572768c9080e47/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
+#EXTINF:-1,宁波文化娱乐
+http://live1.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1,宁波影视
+http://149.129.100.78/ningbo.php?id=4
+#EXTINF:-1,宁波影视
+http://live1.cloud.nbtv.cn/e8370b0010ca4d15af9d81c7ce10f6da/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
+#EXTINF:-1,宁波影视
+http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1,宁波少儿
+http://149.129.100.78/ningbo.php?id=5
+#EXTINF:-1,宁波少儿
+http://live1.cloud.nbtv.cn/f9af570c981c4c618f919ea91b93966f/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
+#EXTINF:-1,宁波少儿
+http://live1.cloud.nbtv.cn/live/f9af570c981c4c618f919ea91b93966f?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1,宁波教育科技
+http://149.129.100.78/ningbo.php?id=6
+#EXTINF:-1,宁波教育科技
+http://live1.cloud.nbtv.cn/85c706b2820d454495352f9f3e77f86a/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
+#EXTINF:-1,宁波教育科技
+http://live1.cloud.nbtv.cn/live/85c706b2820d454495352f9f3e77f86af?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1,鄞州一套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
+#EXTINF:-1,鄞州二套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+#EXTINF:-1,奉化新闻综合
+http://live1.fhtv.net.cn/zhzb/sd/live.m3u8
+#EXTINF:-1,奉化新闻综合
+http://live1.fhtv.net.cn/shys/sd/live.m3u8
+#EXTINF:-1,余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1,余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1,绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1,绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1,绍兴柯桥综合
+http://live.scbtv.cn/hls/news/index.m3u8
+#EXTINF:-1,绍兴柯桥时尚台
+http://live.scbtv.cn/hls/qfc/index.m3u8
+#EXTINF:-1,舟山公共生活
+http://live.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1,舟山新闻综合
+http://live.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1,舟山新闻综合
+http://stream.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1,舟山群岛旅游
+http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1,舟山生活台
+http://live.wifizs.cn/ggsh/sd/live.m3u8
+EXTINF:-1,义乌新闻综合
+http://encoder3.ywcity.cn:5080/livestream/stn8zrsu.flv
+EXTINF:-1,义乌新闻综合
+http://encoder3.ywcity.cn:5080/hls/stn8zrsu.m3u8
 #EXTINF:-1,嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1,上虞新闻综合
