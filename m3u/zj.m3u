@@ -182,4 +182,9 @@ EXTINF:-1,温州公共频道
 http://hls.dhtv.cn:8080/live/v4_14.m3u8
 EXTINF:-1,温州公共频道
 rtmp://livetv.dhtv.cn/live/peoples
-
+EXTINF:-1,湖州新闻综合
+http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
+EXTINF:-1,湖州公共频道
+rtmp://live.plus.hugd.com/ggpd1/sd/live.m3u8
+EXTINF:-1,湖州文化娱乐
+rtmp://live.plus.hugd.com/whylpd/sd/live.m3u8
