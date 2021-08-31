@@ -1,8 +1,4 @@
 
-> QQ群免费开放中....
-
-[点击链接加入群聊【wtv交流群】，等级低于一个太阳谢绝入内](https://qm.qq.com/cgi-bin/qm/qr?k=xdOuWd8gz2OHO5zY_jvjwzwj-fb_7O2I&jump_from=webapi)
-
 > 长期更新，建议收藏本页面，资源来源网络，可用性未逐一验证，尽可能保证大多资源可用。
 
 # 最新IPTV直播源m3u8下载，电视直播网站推荐
